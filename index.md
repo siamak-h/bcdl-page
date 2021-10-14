@@ -1,2 +1,1 @@
-## BCDL
-- Breast Cancer Data Library
+## Breast Cancer Data Library
